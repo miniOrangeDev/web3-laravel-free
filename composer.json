@@ -1,6 +1,6 @@
 {
   "name": "miniorangeweb3/web3-laravel-free",
-  "description": "web3 Package for Laravel webapps.",
+  "description": "Web3 Integration for laravel. Login into your laravel application using crypto wallets. Check balance of crypto wallet for specific NFTs.",
   "license": "BSD-3-Clause",
   "authors": [
     {
